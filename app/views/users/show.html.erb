@@ -1,0 +1,6 @@
+<div>
+  <% if(!flash[:notice]) %>
+  Welcome, <%= @user.first_name %>!
+  <%= else <p>#{flash[:notice]} </p> %>
+  <% end%>>
+</div>
