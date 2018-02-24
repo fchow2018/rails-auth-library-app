@@ -25,5 +25,4 @@ Things covered:
 
 
 ## Team members
-Felix Chow
-Juan Carlos Collins
+Felix Chow & Juan Carlos Collins
