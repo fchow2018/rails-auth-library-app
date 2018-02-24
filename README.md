@@ -2,7 +2,7 @@
 
 A rails library app that allows:
 - user authentication and log-in
-- many to many data structures for the database
+- many-to-many data structures for the database
 
 
 Things covered:
