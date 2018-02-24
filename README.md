@@ -1,9 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A rails library app that allows:
+- user authentication and log-in
+- many to many data structures for the database
 
-Things you may want to cover:
+
+Things covered:
 
 * Ruby version
 
@@ -19,6 +21,9 @@ Things you may want to cover:
 
 * Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+### Deployment
 
-* ...
+
+## Team members
+Felix Chow
+Juan Carlos Collins
