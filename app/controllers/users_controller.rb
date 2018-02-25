@@ -13,12 +13,7 @@ class UsersController < ApplicationController
   end
 
   def show
-    @user.try(User.find(params[:id]))
-    if(!@user)
-      flash[:notice] = "Couldnt find the user"
-
-
-    end
+    @user = User.find_by_id(params[:id])
   end
 
   private
